@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchira Lakmal</h1>
 <h3 align="center">Undergraduate @University Of Colombo School of Computing</h3>
-<img align="right" alt="Coding" width="1080" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="auto" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlakmal&label=Profile%20views&color=0e75b6&style=flat" alt="rlakmal" /> </p>
 
