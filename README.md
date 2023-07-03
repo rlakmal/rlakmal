@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rlakmal1" target="blank"><img src="https://img.shields.io/twitter/follow/rlakmal1?logo=twitter&style=for-the-badge" alt="rlakmal1" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Full stack development**
 
 - 📫 How to reach me **rruchiralakmal@gmail.com**
   
